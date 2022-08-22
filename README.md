@@ -1,13 +1,11 @@
-# generative_art
-
 このスクリプトは、レイヤーごとにランダムに抽出したIMGファイルを組み合わせた画像を大量生成するプログラムです。
 
 
 ## 完成版のサンプル
-
+https://github.com/moyattodataman/generative_art/tree/main/output_sample
 
 ## レイヤーごとのリソースファイル
-
+https://github.com/moyattodataman/generative_art/tree/main/components
 
 ## 手順
 
