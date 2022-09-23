@@ -33,3 +33,7 @@ git clone https://github.com/moyattodataman/generative_art.git
 ```
 python generative_art/generate.py
 ```
+
+## Udemyの講座も参考にしてください
+https://www.udemy.com/course/generative-nft/?referralCode=3F804CAE2E1361EAE47A
+[![Image from Gyazo](https://i.gyazo.com/e0919ba0bb9d18521c939ab8d0e38e25.png)](https://gyazo.com/e0919ba0bb9d18521c939ab8d0e38e25)
